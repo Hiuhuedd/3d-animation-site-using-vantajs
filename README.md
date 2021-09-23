@@ -1,0 +1,2 @@
+# 3d-animation-site-using-vantajs
+Add 3D animated digital art to any webpage with just a few lines of code. How it works: Vanta inserts an animated effect as a background into any HTML element. Works with vanilla JS, React, Angular, Vue, etc. Effects are rendered by three.js (using WebGL) or p5.js. Effects can interact with mouse/touch inputs. Effect parameters (e.g. color) can be easily modified to match your brand
